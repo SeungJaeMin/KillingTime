@@ -1,0 +1,8 @@
+/client/bin/
+/client/.settings/
+/client/.classpath
+/client/.project
+/server/bin/
+/server/.settings/
+/server/.classpath
+/server/.project
